@@ -1,2 +1,2 @@
 # RMS-Test-App
-Test app for Rave Mobile Safety
+Test app for R M S
